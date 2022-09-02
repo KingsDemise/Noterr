@@ -1,29 +1,30 @@
 const notes = [
   {
     _id: "1",
-    title: "Day 1 of college",
-    content:
-      "I made a few new friends and introduced myself to a lot of new teachers.",
-    category: "College",
+    title: "Hi",
+    content: "My name is Kingshuk Kirtania",
+    category: "Me",
   },
   {
     _id: "2",
-    title: "Learned some Node JS",
-    content: "Learned how to create a server in node JS and my first API",
-    category: "Learning",
+    title: "Hobbies",
+    content:
+      "I like to play and watch football. I used to sing and play the Harmonium. I like to play esports games such as Valorant. My favourite pastime is to watch some Anime.",
+    category: "Me",
   },
   {
     _id: "3",
-    title: "Watched some Anime",
-    content: "Finished 2 seasons of Attack on Titan and My Hero academia.",
-    category: "Entertainment",
+    title: "Anime",
+    content:
+      "My favourite anime is the show called Monster. My favourite anime protagonist is Lelouch from Code Geass, favourite villain is Johan Liebert from Monster and favourite character from all anime is Sosuke Aizen from Bleach.",
+    category: "Me",
   },
   {
     _id: 4,
-    title: "Started React JS",
+    title: "Career Stuff",
     content:
-      "Made my first App in React JS, feels awesome to learn something new. I aim to be a full stack dev someday",
-    category: "Learning",
+      "I am an undergrad in Information Technology from Jadavpur University. My goal is to make a career in the Tech Field. Fingers Crossed ;-P",
+    category: "Career",
   },
 ];
 
